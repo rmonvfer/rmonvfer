@@ -6,5 +6,6 @@ Things that I like:
  - Agile methodologies
  - Low level architecture
  - Information security
+ - Flutter
 
-If you are still curious about what I do just [send me an email](mailto:ramonvilafer@gmail.com) and I'll reply you as soon as I can!
+If you are still curious about what I do just [send me an email](mailto:ramonvilafer@pm.me) and I'll reply you as soon as I can!
